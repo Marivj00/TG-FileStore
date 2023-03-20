@@ -2,6 +2,6 @@
 
 # Bots new Version
 
-### Special Thanks @AbirHasan2005
+### Special Thanks @marri_vj
 
 # Added With Batch Mode and Ban/Unban Command
